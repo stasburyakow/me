@@ -1,9 +1,9 @@
 <?php
-    $name ="Буряков Станислав";
+    $name ='Буряков Станислав';
     $age = 32;
-    $email ="stasburyakow@gmail.com";
-    $city ="Липецк";
-    $about ="Менеджер, общественник, еще не програмист";
+    $email ='stasburyakow@gmail.com';
+    $city ='Липецк';
+    $about ='Менеджер, общественник, еще не програмист';
 ?>
 <!doctype html>
 <html lang="ru">
